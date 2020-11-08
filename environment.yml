@@ -1,0 +1,15 @@
+name: fl-2020
+channels:
+  - defaults
+dependencies:
+  - plotly
+  - geopandas
+  - pandas
+  - python[version='>=3.8']
+  - jupyterlab
+  - matplotlib
+  - descartes
+  - ipywidgets=7.5
+  - python-kaleido
+  - psutil
+prefix: /Users/william/.pyenv/versions/miniconda3-4.7.12/envs/fl-2020
