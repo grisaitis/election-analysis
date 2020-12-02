@@ -1,6 +1,7 @@
-name: fl-2020
+name: election-analysis
 channels:
   - defaults
+  - plotly
 dependencies:
   - plotly
   - geopandas
