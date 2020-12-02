@@ -13,4 +13,3 @@ dependencies:
   - python-kaleido
   - psutil
   - dash
-prefix: /Users/william/.pyenv/versions/miniconda3-4.7.12/envs/fl-2020
