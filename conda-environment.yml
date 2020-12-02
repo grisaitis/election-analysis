@@ -12,5 +12,4 @@ dependencies:
   - descartes
   - ipywidgets=7.5
   - python-kaleido
-  - psutil
   - dash
