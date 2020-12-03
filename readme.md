@@ -7,8 +7,6 @@ uses the following libraries
 - pandas and geopandas for geospatial data manipulation
 - plotly for visualization
 
-<img src="https://raw.githubusercontent.com/grisaitis/election-analysis/main/figures/choropleth_margin_frac_twoway_dem_2020.jpg" width="80%">
-
 ### set up environment
 
 ```
@@ -24,3 +22,5 @@ jupyter lab
 ### view notebooks
 
 https://nbviewer.jupyter.org/github/grisaitis/election-analysis/tree/main/
+
+<img src="https://raw.githubusercontent.com/grisaitis/election-analysis/main/figures/choropleth_margin_frac_twoway_dem_2020.jpg" width="80%">
